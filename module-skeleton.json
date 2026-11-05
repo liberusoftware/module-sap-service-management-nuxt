@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-service-management-nuxt",
+  "capabilityKey": "planned:sap:service-management",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-service-management-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/service-management.md",
+  "presentationPlan": "projects/sap/nuxt/service-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
